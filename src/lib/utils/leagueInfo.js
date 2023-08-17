@@ -7,13 +7,14 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Hey there, Nuffle disciples and gridiron wizards! Are you all set to jump into the ultimate pigskin showdown with The Nuffle? Get ready to embark on a journey that'll have you shouting, "Hail Mary, it's fantasy time!"
+  <p>Hey there, Nuffle disciples and gridiron wizards! Are you all set to jump into the ultimate pigskin showdown with The Nuffle? Get ready to embark on a journey that'll have you shouting, "Hail Mary, it's fantasy time!"</p>
 
-Listen up, crew – this ain't your run-of-the-mill fantasy league. We're talking next-level plays, mind-bending trades, and heart-pounding waiver wire conquests that'll leave your opponents scratching their heads. Whether you're a fantasy greenhorn or a battle-hardened veteran, this league is all about dishing out the trash talk, crafting lineups that shine under those bright lights, and nabbing those breakout sleepers that'll have your rivals asking, "Did they just predict the future?"
+<p>Listen up, crew – this ain't your run-of-the-mill fantasy league. We're talking next-level plays, mind-bending trades, and heart-pounding waiver wire conquests that'll leave your opponents scratching their heads. Whether you're a fantasy greenhorn or a battle-hardened veteran, this league is all about dishing out the trash talk, crafting lineups that shine under those bright lights, and nabbing those breakout sleepers that'll have your rivals asking, "Did they just predict the future?"</p>
 
-But let's keep it 100 – it's not just about the stats and figures here. We're all about the camaraderie, the banter that's hotter than a summer barbecue, and the ecstasy of triumph that'll have you strutting like a champion. So snag your lucky charm, juice up your gadgets, and prepare to roll with the fantasy fam that turns casual Sundays into full-blown gridiron spectacles.
+<p>But let's keep it 100 – it's not just about the stats and figures here. We're all about the camaraderie, the banter that's hotter than a summer barbecue, and the ecstasy of triumph that'll have you strutting like a champion. So snag your lucky charm, juice up your gadgets, and prepare to roll with the fantasy fam that turns casual Sundays into full-blown gridiron spectacles.</p>
 
-So, are you down for the ride or letting this opportunity slip through your fingers? Get ready to seize glory, talk that talk like a pro, and let The Nuffle become the fantasy saga that's whispered in hushed tones. It's more than just a game; it's a victory dance waiting to explode. Let's make it happen! 🏈🔮</p>
+<p>So, are you down for the ride or letting this opportunity slip through your fingers? Get ready to seize glory, talk that talk like a pro, and let The Nuffle become the fantasy saga that's whispered in hushed tones. It's more than just a game; it's a victory dance waiting to explode. Let's make it happen! 🏈🔮</p>
+
 `;
 
 /*   STEP 3   */
